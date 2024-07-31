@@ -1,0 +1,29 @@
+{
+  "welcomeMessage": "Bienvenue AlphaBot",
+  "next": "Suivant",
+  "letYouIn": "Laissez-vous entrer",
+  "phoneNumber": "Numéro de téléphone",
+  "send": "Envoyer",
+  "noAccount": "Vous n'avez pas de compte?",
+  "signUp": "S'inscrire",
+  "enterVerification": "Entrez vérification",
+  "code": "Code",
+  "verify": "Vérifier",
+    "createYour": "Créez votre",
+    "account": "Compte",
+    "emailHint": "levis-andrew@gmail.com",
+    "passwordHint": "Mot de passe",
+    "confirmPasswordHint": "Confirmez le mot de passe",
+    "rememberMe": "Se souvenir de moi",
+    "signUpButton": "S'inscrire",
+    "alreadyHaveAccount": "Vous avez déjà un compte? ",
+    "signIn": "Se connecter",
+    "select": "Sélectionnez votre langue préférée",
+    "setFingerprint": "Configurer votre empreinte digitale",
+    "addFingerprintDescription": "Ajoutez une empreinte digitale pour sécuriser davantage votre compte",
+    "fingerScannerInstruction": "Veuillez placer votre doigt sur le scanner d'empreintes digitales pour commencer",
+    "returnButton": "Retour",
+    "continueButton": "Continuer"
+}
+    
+  

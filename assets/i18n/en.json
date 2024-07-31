@@ -1,0 +1,30 @@
+{
+  "welcomeMessage": "Welcome to AlphaBot",
+  "next": "Next",
+  "letYouIn": "Let's you in",
+  "phoneNumber": "Phone Number",
+  "send": "Send",
+  "noAccount": "Don't have an account?",
+  "signUp": "Sign Up",
+  "enterVerification": "Enter Verification",
+  "code": "Code",
+  "verify": "Verify",
+  "createYour": "Create your",
+  "account": "Account",
+  "emailHint": "levis-andrew@gmail.com",
+  "passwordHint": "Password",
+  "confirmPasswordHint": "Confirm Password",
+  "rememberMe": "Remember me",
+  "signUpButton": "Sign up",
+  "alreadyHaveAccount": "Already have an account? ",
+  "signIn": "Sign In",
+  "select": "Select your preferred language",
+  "setFingerprint": "Set Your Fingerprint",
+  "addFingerprintDescription": "Add a fingerprint to make your account more secure",
+  "fingerScannerInstruction": "Please put your finger on the fingerprint scanner to get started",
+  "returnButton": "Return",
+  "continueButton": "Continue"
+  }
+  
+  
+  

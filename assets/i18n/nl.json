@@ -1,0 +1,30 @@
+{
+  "welcomeMessage": "Welkom bij AlphaBot",
+  "next": "Volgende",
+  "letYouIn": "Laat je binnen",
+  "phoneNumber": "Telefoonnummer",
+  "send": "Versturen",
+  "noAccount": "Heb je geen account?",
+  "signUp": "Aanmelden",
+  "enterVerification": "Voer verificatie in",
+  "code": "Code",
+  "verify": "Verifiëren",
+    "createYour": "Maak uw",
+    "account": "Account",
+    "emailHint": "levis-andrew@gmail.com",
+    "passwordHint": "Wachtwoord",
+    "confirmPasswordHint": "Bevestig wachtwoord",
+    "rememberMe": "Onthoud mij",
+    "signUpButton": "Registreren",
+    "alreadyHaveAccount": "Heeft u al een account? ",
+    "signIn": "Aanmelden",
+    "select": "Selecteer de taal van uw voorkeur",
+    "setFingerprint": "Stel uw vingerafdruk in",
+    "addFingerprintDescription": "Voeg een vingerafdruk toe om uw account veiliger te maken",
+    "fingerScannerInstruction": "Plaats alstublieft uw vinger op de vingerafdrukscanner om te beginnen",
+    "returnButton": "Terug",
+    "continueButton": "Doorgaan"
+    }
+    
+  
+  
